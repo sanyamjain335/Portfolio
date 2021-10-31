@@ -1,6 +1,6 @@
 # Assignment-2 (Portfolio using HTML,CSS,JS)
 
-###### Github link for the same - `https://github.com/sanyamjainiiith/Portfolio`
+###### URL  - `https://sanyamjainiiith.github.io/Portfolio/`
 
 ### Additional Functionalities used for better design:-
 
